@@ -1,7 +1,6 @@
 [package]
-name = "ages_to_days"
+name = "convert_ages"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-anyhow = "1.0.86"
